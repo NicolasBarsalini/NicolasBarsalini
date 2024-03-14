@@ -1,4 +1,4 @@
-##  Hello, I'm Nicolas, a programming and technology lover!
+##  <h3 align="center">Hello, I'm Nicolas, a programming and technology lover!</h3>
 
 ---
 
@@ -8,14 +8,13 @@
 
 <img align="right" height="200" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d612983ebb536a5b91d2ab2a25d83c72ffba6c5c&rid=giphy.gif&ct=g"  />
 
-### <h3 align="left">About me:</h2>
+### <h3 align="left">About me:</h3>
 
 - 📖 Studying Computer Engineering
 
 - 🖥️ Backend Developer
 
 - 💡 Always learning new things!
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
