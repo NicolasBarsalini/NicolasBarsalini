@@ -1,5 +1,9 @@
 ##  Hello, I'm Nicolas, a programming and technology lover!
 
+.📖 Studying Computer Engineering
+.🖥️ Backend Developer 
+.💡 Always learning new things!
+
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
