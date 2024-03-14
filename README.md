@@ -3,10 +3,12 @@
 ---
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=ec008b&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+Nicolas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=FF6961&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+Nicolas" alt="Typing SVG" /></a>
 </h1>
 
 <img align="right" height="200" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d612983ebb536a5b91d2ab2a25d83c72ffba6c5c&rid=giphy.gif&ct=g"  />
+
+### <h3 align="left">About me:</h2>
 
 - 📖 Studying Computer Engineering
 
@@ -30,7 +32,7 @@
   <img align="center" alt="Nick-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
 </div>
 
----
+##
 
 ### 📈 My stats:
 
@@ -40,7 +42,11 @@
 
   
 </div>
- 
+
+---
+
+### <h3 align="left">Contact me:</h2>
+
 <div> 
   <a href = "mailto:nicolasbarsalinidev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolasbarsalini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
