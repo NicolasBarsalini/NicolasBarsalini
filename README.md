@@ -4,8 +4,6 @@
 
 <img align="right" height="200" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d612983ebb536a5b91d2ab2a25d83c72ffba6c5c&rid=giphy.gif&ct=g"  />
 
----
-
 ##  Hello, I'm Nicolas, a programming and technology lover!
 
 - 📖 Studying Computer Engineering
