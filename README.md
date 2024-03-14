@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=ec008b&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+Nicolas" alt="Typing SVG" /></a>
+</h1>
+
+<img align="right" height="200" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d612983ebb536a5b91d2ab2a25d83c72ffba6c5c&rid=giphy.gif&ct=g"  />
+
+---
+
 ##  Hello, I'm Nicolas, a programming and technology lover!
 
 - 📖 Studying Computer Engineering
@@ -21,8 +29,6 @@
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Nick-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
 </div>
-  
-  ##
 
 ---
 
