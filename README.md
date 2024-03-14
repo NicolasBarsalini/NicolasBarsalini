@@ -1,7 +1,9 @@
 ##  Hello, I'm Nicolas, a programming and technology lover!
 
 .📖 Studying Computer Engineering
+
 .🖥️ Backend Developer 
+
 .💡 Always learning new things!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
