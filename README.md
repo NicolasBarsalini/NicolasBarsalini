@@ -12,7 +12,7 @@
 
 - 📖 Studying Computer Engineering
 
-- 🖥️ Backend Developer
+- 🖥️ Software Engineer
 
 - 💡 Always learning new things!
 
